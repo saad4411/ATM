@@ -1,0 +1,19 @@
+{
+  "name": "@saad1144/project02_atm",
+  "version": "1.0.0",
+  "description": "project02_atm",
+  "main": "main.js",
+  "type": "module",
+  "bin":  "main.js",
+  "publishConfig":}
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
